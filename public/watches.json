@@ -1,0 +1,43 @@
+[
+    {
+      "watch": "Rolex Submariner",
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": "$10,000",
+      "movement": "Automatic",
+      "waterResistance": "300 meters"
+    },
+    {
+      "watch": "Omega Speedmaster Professional",
+      "brand": "Omega",
+      "model": "Speedmaster Professional",
+      "price": "$6,000",
+      "movement": "Manual",
+      "waterResistance": "50 meters"
+    },
+    {
+      "watch": "Tag Heuer Carrera",
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "price": "$4,500",
+      "movement": "Automatic",
+      "waterResistance": "100 meters"
+    },
+    {
+      "watch": "Seiko Presage",
+      "brand": "Seiko",
+      "model": "Presage",
+      "price": "$500",
+      "movement": "Automatic",
+      "waterResistance": "50 meters"
+    },
+    {
+      "watch": "Fossil Grant",
+      "brand": "Fossil",
+      "model": "Grant",
+      "price": "$150",
+      "movement": "Quartz",
+      "waterResistance": "30 meters"
+    }
+  ]
+  
